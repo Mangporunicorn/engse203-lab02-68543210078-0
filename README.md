@@ -4,9 +4,9 @@
 
 ## Student Information
 
-- Student ID: `<student-id>`
-- Name: `<name according to course policy>`
-- Operating system: `<macOS / Windows + WSL>`
+- Student ID: `68543210078-0`
+- Name: `ปริยากร ธารพรศรี`
+- Operating system: `<macOS>`
 - GitHub Pages URL: `<add after deployment>`
 
 ## Project Overview
