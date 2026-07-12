@@ -60,7 +60,32 @@ body {
   display: none;
 }
 
-/* TODO: เพิ่มรูปแบบ .message.loading, .message.success, .message.error */
+.message.loading {
+  color: #123d78;
+  background: #e7eef9;
+  border: 1px solid #b9cce8;
+}
+
+.message.success {
+  color: #14532d;
+  background: #dcfce7;
+  border: 1px solid #86efac;
+}
+
+.message.error {
+  color: #7f1d1d;
+  background: #fee2e2;
+  border: 1px solid #fca5a5;
+}
+
+.stat-card p {
+  margin: 0 0 0.5rem;
+  color: #4b5b70;
+}
+
+.stat-card strong {
+  font-size: 2rem;
+}
 
 .stats {
   display: grid;
